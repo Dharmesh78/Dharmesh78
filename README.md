@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; I'm learning data structures and algorithms.
 - 💼 &nbsp; beginner in the field of Django web developement.
 - 🌱 &nbsp; Enthusiast in web development and machine learning .
-- ✍️ &nbsp; A huge star wars fan.
-- ☕ &nbsp; I believe, the nature is the best solution for any stress. 
+- ✍️ &nbsp;  A huge star wars fan.
+- ☕ &nbsp;  I believe, the nature is the best solution for any stress. 
+- ☕ &nbsp;  Fun fact: Prefer Linux over Windows 🙃
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
+- 💻 &nbsp;  C++ | Python | Java  
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap | Django
-- 🛢 &nbsp; MySQL 
+- 🛢 &nbsp;  MySQL 
 - 🔧 &nbsp;  PyCharm | Git | Tableau
 - 🖥 &nbsp;  Photoshop 
 
