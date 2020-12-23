@@ -5,25 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing my masters in Data Analytics ...
-- 🌱 I’m currently learning data structures and algorithms...
-- 👯 I’m looking to collaborate in the field software development...
-<!--- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*3N994lFVAwmVTsYJ.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently pursuing my masters in Data Analytics ...
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; I'm learning data structures and algorithms.
 - 💼 &nbsp; beginner in the field of Django web developement.
 - 🌱 &nbsp; Enthusiast in web development and machine learning .
 - ✍️ &nbsp; A huge star wars fan.
-- ☕ &nbsp; I belive, the nature is the best solution for any stress. 
+- ☕ &nbsp; I believe, the nature is the best solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
