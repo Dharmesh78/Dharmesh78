@@ -3,8 +3,6 @@
 <!--
 **Dharmesh78/Dharmesh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*3N994lFVAwmVTsYJ.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
