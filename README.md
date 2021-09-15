@@ -7,11 +7,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently pursuing my masters in Data Analytics ...
+- 🔭 &nbsp; I’m a Software developer at Oracle and working in Cloud Infrastucture unit ...
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I'm learning data structures and algorithms.
-- 💼 &nbsp; beginner in the field of Django web developement.
-- 🌱 &nbsp; Enthusiast in web development and machine learning .
+- 💼 &nbsp; Intermediate in the field of Django web developement.
+- 🌱 &nbsp; Enthusiast in web development and DevOps.
 - ✍️ &nbsp;  A huge star wars fan.
 - ☕ &nbsp;  I believe, the nature is the best solution for any stress. 
 - ☕ &nbsp;  Fun fact: Prefer Linux over Windows 🙃
