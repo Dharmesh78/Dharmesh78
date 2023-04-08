@@ -36,4 +36,4 @@
 &nbsp; <a href="mailto:dharmeshsinghpaliwal.7@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [Dharmesh](https://github.com/Dharmesh78)
+⭐️ From [Dharmesh]( [my profile] https://wellfound.com/u/dharmesh-singh-7)
